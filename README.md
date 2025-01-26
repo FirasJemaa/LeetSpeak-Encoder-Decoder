@@ -15,18 +15,8 @@ Le script utilise la bibliothèque `argparse` pour gérer les arguments en ligne
 
 ## Installation
 
-1. Clonez le dépôt GitHub :
-
-   ```bash
-   git clone https://github.com/votre-utilisateur/leet-encoder-decoder.git
-   ```
-
-2. Accédez au dossier du projet :
-
-   ```bash
-   cd leet-encoder-decoder
-   ```
-
+1. Clonez le dépôt GitHub.
+2. Accédez au dossier du projet depuis votre terminal.
 3. Exécutez le script avec Python (version 3.6 ou supérieure est recommandée).
 
 ## Utilisation
